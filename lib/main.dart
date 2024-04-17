@@ -15,7 +15,7 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   late WebSocketChannel channel;
   String displayMessage = '';
-  Color backgroundColor = Colors.black; // This color will dynamically change
+  Color backgroundColor = Colors.black;
   int pushCount = 0;
   int pullCount = 0;
   String ipAddress = 'localhost';
