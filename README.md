@@ -1,16 +1,18 @@
-# flutter_door
+# Flutter WebSocket Client for Door
 
-A new Flutter project.
+A Flutter App made for communicating with a websocket server to get info for when a door and light controlled by a raspberry pi are open / on or closed / off
 
-## Getting Started
+# Made for: 
 
-This project is a starting point for a Flutter application.
+# Info
 
-A few resources to get you started if this is your first Flutter project:
+Flutter Version -> Flutter 3.19.5
+Tools -> Dart 3.3.3 • DevTools 2.31.1
+Framework -> Revision 300451adae
+Engine -> Revision e76c956498
+Tested (and working) on -> Windows 10, Android (Nothing Phone (2) running Nothing OS 2.5.3 -> Android 14)
+Tested (and not working) on -> Edge, Chrome, Web Server
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# TO DO:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Test on iOS
