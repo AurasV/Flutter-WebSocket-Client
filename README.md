@@ -16,3 +16,4 @@ Tested (and not working) on -> Edge, Chrome, Web Server
 # TO DO:
 
 Test on iOS
+Add info in the made for section
